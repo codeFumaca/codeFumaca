@@ -5,9 +5,9 @@
 
 I'm Eduardo Lopes, 20y!
 
-- 🤓 I’m currently learning C and [Java](https://dev.java/).
+- 🤓 Learning C and [Java](https://dev.java/).
 - 🎮 I like Games!
-- ☁️ I always try to be better every day.
+- ☁️ Always try to be better every day.
 
 <div>
  	<a href="https://www.twitch.tv/ofumaca" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
