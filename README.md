@@ -5,7 +5,7 @@
 
 I'm Eduardo Lopes, 20y!
 
-- 🤓 Learning C and [Java](https://dev.java/).
+- 🤓 Learning [Java](https://dev.java/).
 - ☁️ Always try to be better every day.
 
 <div>
