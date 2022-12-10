@@ -5,7 +5,7 @@
 
 I'm Eduardo Lopes, 20y!
 
-- 🤓 Learning [Java](https://dev.java/).
+- 🤓 Learning [Java](https://dev.java/)and (MySQL)[https://www.mysql.com/].
 - ☁️ Always try to be better every day.
 
 <div>
