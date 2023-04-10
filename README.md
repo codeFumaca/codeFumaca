@@ -5,7 +5,7 @@
 
 I'm Eduardo Lopes, 20y!
 
-- 🤓 Learning [Java](https://dev.java/) and [MySQL](https://www.mysql.com/).
+- 🤓 Learning [PHP]([https://dev.java/](https://php.org/)) and [MySQL](https://www.mysql.com/).
 
 <div>
  	<a href="https://www.twitch.tv/ofumaca" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
