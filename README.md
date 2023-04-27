@@ -3,9 +3,9 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=codeFumaca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </a>
 
-I'm Eduardo Lopes, 20y!
+I'm Eduardo Lopes, 21y!
 
-- 🤓 Learning [PHP](https://php.org/) and [MySQL](https://www.mysql.com/).
+- 🤓 Learning [JavaScript](https://js.org/)  and [MySQL](https://www.mysql.com/).
 
 <div>
  	<a href="https://www.twitch.tv/ofumaca" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
