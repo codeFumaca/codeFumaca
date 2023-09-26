@@ -1,11 +1,8 @@
 ## Hi there 👋
-<a href="https://github.com/codeFumaca">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=codeFumaca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-</a>
 
 I'm Eduardo Lopes, 21y!
 
-- 🤓 Learning [JavaScript](https://js.org/)  and [MySQL](https://www.mysql.com/).
+- 🤓 Learning [React](https://react.dev/)  and [MongoDB](https://www.mongodb.com/).
 
 <div>
  	<a href="https://www.twitch.tv/ofumaca" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
