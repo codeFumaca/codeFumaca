@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Eduardo Lopes, 21y!
+I'm Eduardo Lopes, 22y!
 
 - 🤓 Learning [React](https://react.dev/)  and [MongoDB](https://www.mongodb.com/).
 
