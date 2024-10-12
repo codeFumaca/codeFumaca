@@ -2,7 +2,7 @@
 
 I'm Eduardo Lopes, 22y!
 
-- 🤓 Learning [React](https://react.dev/)  and [MongoDB](https://www.mongodb.com/).
+- 🤓 Learning [Next](https://nextjs.org/).
 
 <div>
  <a href="https://www.linkedin.com/in/eduardo-s-lopes" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
