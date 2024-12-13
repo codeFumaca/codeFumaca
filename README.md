@@ -2,7 +2,7 @@
 
 I'm Eduardo Lopes, 22y!
 
-- 🤓 Learning [Next](https://nextjs.org/).
+- 🤓 Learning [Expo](https://expo.dev/).
 
 <div>
  <a href="https://www.linkedin.com/in/eduardo-s-lopes" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
