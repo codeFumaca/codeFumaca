@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Eduardo Lopes, 22y!
+I'm Eduardo Lopes, 23y!
 
 - 🤓 Learning [Expo](https://expo.dev/) and [NestJs](https://nestjs.com/).
 
